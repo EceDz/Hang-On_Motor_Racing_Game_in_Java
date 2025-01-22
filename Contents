@@ -10,7 +10,7 @@ such as username/screen name etc.
  If the user would like to login s/he should be able to request to login via the menu (User->Login).
  When a user would like to play the game (Game->Start), the application should check whether s/he is logged in. 
 If not, the user should be forwarded to a login screen where s/he is asked for username and password.
- As can be seen on the example screenshots, the game screen should have the speed of the motorbike, the score and the time available till the next check point.
+ The game screen should have the speed of the motorbike, the score and the time available till the next check point.
  Every player should get from one check point to the other in 60 seconds time – the check points are marked in red on the circuit diagram
  The game should have a level of artificial intelligence, which should be expressed via other racing motorbikes. 
 At the beginning the competitor bikers should move randomly 
