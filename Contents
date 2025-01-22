@@ -2,7 +2,7 @@ You are required to develop a single player motorbike racer game.
 Your application should keep scores for all players. 
 For this purpose, the users should be required to register with a login name and a password, and to log in prior playing the game.
 You can use the following statements and figures as a guideline:
- For usability purposes, you are required to implement a graphical user interface (GUI) for your application (see Fig. 1).
+ For usability purposes, you are required to implement a graphical user interface (GUI) for your application.
  Your application should have a welcoming window which will contain the game logo and a menu structure (Game, User, and Quit).
  In the case of a Registration request (User->Register), a login window should pop-up to collect the user details (username; password). 
 You might also consider collecting some additional information here, 
