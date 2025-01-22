@@ -1,15 +1,19 @@
 You are required to develop a single player motorbike racer game. 
-Your application should keep scores for all players. For this purpose, the users should be required to register with a login name and a password, and to log in prior playing the game.
+Your application should keep scores for all players. 
+For this purpose, the users should be required to register with a login name and a password, and to log in prior playing the game.
 You can use the following statements and figures as a guideline:
  For usability purposes, you are required to implement a graphical user interface (GUI) for your application (see Fig. 1).
  Your application should have a welcoming window which will contain the game logo and a menu structure (Game, User, and Quit).
- In the case of a Registration request (User->Register), a login window should pop-up to collect the user details (username; password). You might also consider collecting some additional information here, 
+ In the case of a Registration request (User->Register), a login window should pop-up to collect the user details (username; password). 
+You might also consider collecting some additional information here, 
 such as username/screen name etc.
  If the user would like to login s/he should be able to request to login via the menu (User->Login).
- When a user would like to play the game (Game->Start), the application should check whether s/he is logged in. If not, the user should be forwarded to a login screen where s/he is asked for username and password.
- As can be seen on the example screenshots (Fig. 3), the game screen should have the speed of the motorbike, the score and the time available till the next check point.
+ When a user would like to play the game (Game->Start), the application should check whether s/he is logged in. 
+If not, the user should be forwarded to a login screen where s/he is asked for username and password.
+ As can be seen on the example screenshots, the game screen should have the speed of the motorbike, the score and the time available till the next check point.
  Every player should get from one check point to the other in 60 seconds time – the check points are marked in red on the circuit diagram
- The game should have a level of artificial intelligence, which should be expressed via other racing motorbikes. At the beginning the competitor bikers should move randomly 
+ The game should have a level of artificial intelligence, which should be expressed via other racing motorbikes. 
+At the beginning the competitor bikers should move randomly 
 but after the half of the circuit they should make aggressive moves to kick the player out of the track.
  The user should be able to pause (Game->Pause) the game though the menu. Also the user should be able to restart any time during the game (Game->Restart).
  When the motorbike gets out of the track it should crash and the game should start from the beginning.
